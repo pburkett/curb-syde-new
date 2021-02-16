@@ -25,10 +25,7 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^5.0.0",
-    "eslint-plugin-vue": "^7.4.1",
-    "node-sass": "^5.0.0",
-    "sass-loader": "^10.1.1",
-    "sass": "^1.32.4"
+    "eslint-plugin-vue": "^7.4.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-eslint": "~4.5.10",
